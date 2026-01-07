@@ -1,30 +1,34 @@
 # CardiAIgnostic Web
-**Inteligencia Artificial para la detección temprana de enfermedades cardíacas usando Lógica Difusa**
+**Artificial Intelligence for the Early Detection of Heart Disease Using Fuzzy Logic**
 
-CardiAIgnostic Web es una aplicación web desarrollada con **HTML, CSS y JavaScript** que implementa un sistema de **Lógica Difusa** para estimar el riesgo de enfermedades cardíacas a partir de variables clínicas.
-
----
-
-## Características
-
-- Interfaz web interactiva.
-- Implementación de Lógica Difusa en JavaScript.
-- Evaluación de reglas difusas.
-- Funciona completamente en el navegador (sin backend).
-- Compatible con dispositivos móviles y escritorio.
+CardiAIgnostic Web is a web application developed with **HTML, CSS, and JavaScript** that implements a **Fuzzy Logic** system to estimate the risk of heart disease based on clinical variables.
 
 ---
 
-> Este sistema es únicamente educativo y no sustituye un diagnóstico médico profesional.
+## Features
+
+- Interactive web interface.
+
+- Fuzzy Logic implementation in JavaScript.
+
+- Fuzzy rule evaluation.
+
+- Works entirely in the browser (no backend).
+
+- Compatible with mobile and desktop devices.
 
 ---
 
-## Tecnologías utilizadas
+> This system is for educational purposes only and does not replace a professional medical diagnosis.
+
+---
+
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- Lógica Difusa
+- Fuzzy Logic
 
 ---
 
