@@ -29,5 +29,3 @@ CardiAIgnostic Web es una aplicación web desarrollada con **HTML, CSS y JavaScr
 ---
 
 By: AlanGM16
-├── index.html
-├──
